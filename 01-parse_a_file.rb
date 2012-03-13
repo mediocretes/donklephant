@@ -13,3 +13,5 @@ gets
 pipeline.reset!
 pipeline = pipeline | exhaust_and_count
 puts "line count: #{pipeline.run}"
+
+puts "Did I forget to mention examples are up?  Examples are up on github.com/mediocretes/donklephant"
