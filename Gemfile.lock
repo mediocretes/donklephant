@@ -1,0 +1,16 @@
+GEM
+  remote: http://rubygems.org/
+  specs:
+    awesome_print (1.0.2)
+    rake (0.9.2)
+    stages (0.3.2)
+      rake (= 0.9.2)
+    xml-simple (1.1.1)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  awesome_print
+  stages
+  xml-simple
